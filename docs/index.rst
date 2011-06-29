@@ -42,6 +42,7 @@ More focused short articles, focusing on less general and more advanced use case
 
     howto/how-to-extend-django-shop-models
     howto/how-to-use-your-own-addressmodel
+    howto/how-to-use-your-own-productmodel
 
 
 Reference
